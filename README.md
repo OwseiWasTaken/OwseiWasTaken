@@ -1,4 +1,6 @@
-o7, I’m Owsei, but OwseiWasTaken
+o7
+<br>
+what if u whanted "@owsei", but god sad @OwseiWasTaken
 <br>
 Im interested in: python, go and js
 <br>
