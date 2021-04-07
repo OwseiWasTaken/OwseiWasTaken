@@ -4,7 +4,7 @@ Im interested in: python, go and js
 <br>
 Im looking to collaborate on: anything that i can help
 <br>
-How to reach me: dicord Owsei 2183
+dicord: Owsei 2183
 <br>
 
 <!---
