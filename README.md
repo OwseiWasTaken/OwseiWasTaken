@@ -8,6 +8,6 @@ Im interested in: python, go and js
 
 Im looking to collaborate on: anything that i can help
 
-dicord: OwseiWasTaken 2183
+dicord: OwseiWasTaken#2183
 
 </p>
