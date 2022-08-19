@@ -1,9 +1,9 @@
 <h2>oi mate</h2>
 <p>
-my libs:
- util.py: random shit
+my libs:<br>
+ util.py: random shit<br>
  
- gutil.go: util for go
-  termin.go: curses for me
+ gutil.go: util for go<br>
+  termin.go: curses for me<br>
 
 </p>
